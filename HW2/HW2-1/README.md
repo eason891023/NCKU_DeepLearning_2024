@@ -1,5 +1,6 @@
 file discription:
 HW2-1_myModel.ipynb：the implementation of AdaptiveChannelConv
+
 HW2-1_naive_model.ipynb: the implementation of naiveModel
 
 Introduction of AdaptiveChannelConv：
